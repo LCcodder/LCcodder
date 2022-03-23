@@ -5,6 +5,8 @@
 - 👉 Worked on startup http://english.school1747.ru/
 - 🐍 Hate python, but codes on him ...
 - 💔 Heartbreaking with C#
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&layout=compact)](https://github.com/LCcodder/github-readme-stats)
 
 <!---

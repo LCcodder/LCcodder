@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and C# ...
 - 👁️ I'm interested in software engineering ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&layout=compact)](https://github.com/LCcodder/github-readme-stats)
 
 <!---
 LCcodder/LCcodder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

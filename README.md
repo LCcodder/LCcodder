@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=8)](https://github.com/LCcodder/github-readme-stats)
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCcodder&show_icons=false&theme=highcontrast)
 
 <!---
 LCcodder/LCcodder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

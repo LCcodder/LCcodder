@@ -4,10 +4,12 @@
 - 👁️ I'm interested in game development ...
 - 👉 Worked on startup http://english.school1747.ru/
 - 🐍 Hate python and dynamic typing ...
+___
+## Worktools
+- node.js
+- .NET
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
 
 <!---
 LCcodder/LCcodder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
 
-## **Projects:**
+## **Big projects:**
 - 👉 Startup (frontend + sys-engineering) http://english.school1747.ru/
 - 👉 Web-site (backend + sys-architecture) http://shop-anastasiia.cf
 <!---

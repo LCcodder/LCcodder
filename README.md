@@ -9,7 +9,7 @@
 
 ## **Technology Stack:**
 - Databases: `Mongodb, Redis, PostgreSQL`
-- Languages: `Typescript, Javascript, C#`
+- Languages: `Typescript, Javascript, Python, C#`
 - Frameworks: `Node.js, .NET`
 - Serverstack (node): `express`
 - VDS, VPS: `Microsoft Azure, AWS`

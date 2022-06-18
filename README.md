@@ -12,7 +12,7 @@
 - Languages: `Typescript, Javascript, Python, C#`
 - Frameworks: `Node.js, .NET`
 - Serverstack (node): `express`
-- VDS, VPS: `Microsoft Azure, AWS`
+- VDS, VPS: `RuVDS, AWS`
 - Toolstack: `Docker, NGINX`
 - OS: `Ubuntu 20.04, Arch Linux`
 - Code Editor: `VIM, VS Code, VS`

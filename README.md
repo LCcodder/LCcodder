@@ -13,7 +13,7 @@
 - Frameworks: `Node.js, .NET`
 - Serverstack (node): `express`
 - VDS, VPS: `RuVDS, AWS`
-- Toolstack: `Docker, NGINX`
+- DevOps: `Docker, NGINX`
 - OS: `Ubuntu 20.04, Arch Linux`
 - Code Editor: `VIM, VS Code, VS`
 - Version control: `git`

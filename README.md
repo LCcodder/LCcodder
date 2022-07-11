@@ -12,7 +12,7 @@
 - Languages: `Typescript, Javascript, Python, C#`
 - Frameworks: `Node.js, .NET`
 - Serverstack (node): `express`
-- VDS, VPS: `RuVDS, AWS`
+- VDS, VPS: `RuVDS, AWS, Romeo & Juliet personal cluster`
 - DevOps: `Docker, NGINX`
 - OS: `Ubuntu 20.04, Arch Linux`
 - Code Editor: `VIM, VS Code, VS`

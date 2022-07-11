@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @LCcodder
 - 🏢 I’m system architect ...
+- 👉 Currently working on startup Level-UP!
 - 🌱 I’m currently learning Golang and C# ...
 - 👁️ I'm interested in system design ...
-- 👉 Worked on startup http://english.school1747.ru/
 - 🤡 NoSQL ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
@@ -20,7 +20,7 @@
 
 
 ## **Big projects:**
-- 👉 Startup (frontend + sys-engineering) http://english.school1747.ru/
+- 👉 Startup web-service (frontend + sys-engineering) http://english.school1747.ru/
 - 👉 Web-site (backend + sys-architecture) http://shop-anastasiia.cf
 <!---
 LCcodder/LCcodder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

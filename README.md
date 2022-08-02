@@ -1,4 +1,4 @@
-# *"Why do it yourself, when robots do it better?"*
+## *"I spill coffe on it. I'm a nerd."*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
 

@@ -7,7 +7,7 @@
 - Languages: `Typescript, Javascript, Python, C#, C++`
 - Frameworks: `Node.js, .NET`
 - Serverstack (node): `express`
-- VDS, VPS: `RuVDS, AWS, Romeo & Juliet home cluster`
+- VDS, VPS: `RuVDS, AWS, "Romeo & Juliet" home-made cluster`
 - OS: `Ubuntu server 20.04`
 - Code Editor: `VIM, VS Code, VS`
 

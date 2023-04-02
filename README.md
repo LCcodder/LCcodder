@@ -4,12 +4,12 @@
 
 ## **Technology Stack:**
 - Databases: `Mongodb, Redis, PostgreSQL`
-- Languages: `Typescript, Javascript, Python, C#, C++`
+- Languages: `Typescript, Javascript, Python, C#`
 - Frameworks: `Node.js, .NET`
 - Serverstack (node): `express`
 - VDS, VPS: `RuVDS, AWS, "Romeo & Juliet" home-made cluster`
 - OS: `Ubuntu server 20.04`
-- Code Editor: `VIM, VS Code, VS`
+- DevOps: `Docker`
 
 
 ## **Big projects:**

@@ -1,16 +1,16 @@
-## System architect, peer-to-peer developer
+## System architect, DevSecOps
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
 
 ## **Technology Stack:**
 - Databases: `Mongodb, Redis, PostgreSQL`
-- Languages: `Typescript, Javascript, C#`
-- Frameworks: `Node.js, .NET`
+- Languages: `Typescript, Javascript, Go`
+- Frameworks: `Node.js, Fiber`
 - Serverstack (node): `express`
 - VDS, VPS: `RuVDS, AWS, "Romeo & Juliet" home-made cluster`
 - OS: `Ubuntu server 20.04`
-- DevOps: `Docker`, `Kubernetes`
+- DevOps: `Docker`, `Kubernetes`, `Ansible`, `Nginx`, `LE`
 
 
 ## **Big projects:**

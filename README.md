@@ -4,11 +4,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
 
 ## **Technology Stack:**
-- Languages: `Typescript, Javascript, Python`
-- Frameworks: `Node.js, Flask`
-- Serverstack (node): `express`
+- Languages: `Typescript, Javascript, Python, Go`
+- Frameworks: `Express, Flask, Gin`
 - Databases: `Mongodb, Redis, PostgreSQL`
-- VDS, VPS: `RuVDS, AWS, "Romeo & Juliet" home-made cluster`
+- VDS, VPS: `RuVDS, AWS, Heroku, "Romeo & Juliet" home-made cluster`
 - OS: `Ubuntu server 20.04`
 - DevOps tools: `Docker`, `Kubernetes`, `Ansible`, `Nginx`, `LE`, `CEPH cloudbase`
 

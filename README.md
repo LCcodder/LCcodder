@@ -1,15 +1,15 @@
-## System architect, DevSecOps
+## Backend Node.js developer, DevOps
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
 
 ## **Technology Stack:**
-- Languages: `Typescript, Javascript, Python, Go`
-- Frameworks: `Express, Flask, Gin`
+- Languages: `Typescript, Javascript, Python`
+- Frameworks: `Express, Flask`
 - Databases: `Mongodb, Redis, PostgreSQL`
 - VDS, VPS: `RuVDS, AWS, Heroku, "Romeo & Juliet" home-made cluster`
 - OS: `Ubuntu server 20.04`
-- DevOps tools: `Docker`, `Kubernetes`, `Ansible`, `Nginx`, `LE`, `CEPH cloudbase`
+- DevOps tools: `Docker`, `Kubernetes`, `Ansible`, `Nginx`, `LE`
 
 
 ## **Big projects:**

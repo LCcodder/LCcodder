@@ -9,7 +9,7 @@
 - Databases: `Mongodb, Redis, PostgreSQL`
 - VDS, VPS: `RuVDS, AWS, Heroku, "Romeo & Juliet" home-made cluster`
 - OS: `Ubuntu server 20.04`
-- DevOps tools: `Docker`, `Kubernetes`, `Ansible`, `Nginx`, `LE`
+- DevOps tools: `Docker`, `Kubernetes`
 
 
 ## **Big projects:**

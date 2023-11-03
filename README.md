@@ -12,7 +12,7 @@
 - Dev statck: `Git`, `Jira` 
 
 ## **Big projects:**
-- 👉 Educational web-service (frontend + sys-engineering) http://english.school1747.ru/
+- 👉 Educational web-service (frontend + sys-engineering)
 - 👉 A powerful Discord bot with microservice architecture (backend + sys-architecture)
 
 <!---

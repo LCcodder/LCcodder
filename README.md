@@ -7,7 +7,7 @@
 - Top languages: `Typescript`, `Javascript`
 - Frameworks: `Express`
 - Databases: `Mongodb`, `Redis`, `PostgreSQL`, `Cassandra`
-- Libstack: `Sequelize`, `Zod`, `JWT`, `Socket.io`, `Mongoose`
+- Libstack: `Sequelize`, `Zod`, `JWT`, `Socket.io`, `Mongoose`, `Express-handlebars`
 - DevOps tools: `Unix`, `Docker`, `Nginx`, `Bash`
 - Dev statck: `Git`, `Jira` 
 

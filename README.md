@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
 
-## **My technology Stack:**
+## **Skills and tech stack:**
 - Main languages: `Typescript`, `Javascript`
 - Main frameworks: `Express`, `Express-handlebars`
 - Commonly used databases: `Mongodb`, `Redis`, `PostgreSQL`

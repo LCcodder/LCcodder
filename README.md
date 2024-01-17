@@ -1,4 +1,4 @@
-## Backend Node.js developer, DevOps engineer
+## Backend Node.js developer, DevOps engineer (by degree)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20views&color=0e75b6&style=flat" alt="LCcodder" /></p>
 

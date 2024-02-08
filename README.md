@@ -1,6 +1,6 @@
 ## **Backend `Node.js` developer, DevOps engineer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20views&color=0e75b6&style=flat" alt="LCcodder" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20visits&color=0e75b6&style=flat" alt="LCcodder" /></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)

@@ -13,7 +13,7 @@
 
 
 ## **Big projects:**
-- 👉 A powerful Discord bot with microservice architecture (backend + sys-architecture) @LevelUp-software
+- 👉 A powerful Discord bot with microservice architecture (backend + sys-architecture) [@LevelUp-software](https://github.com/LevelUp-software)
 
 <!---
 LCcodder/LCcodder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,7 +17,7 @@
 - Main languages: `Typescript`, `Javascript`
 - Main frameworks: `Express`, `Express-handlebars`, `Nest.js`
 - Databases: `Mongodb`, `Redis`, `PostgreSQL`, `Cassandra`
-- DevOps skills: `Docker`, `Docker-compose`, `Nginx`, `Linux administration`, `Database administration`, `Pen-testing`
+- DevOps skills: `Docker`, `Docker-compose`, `Nginx`, `Linux administration`, `Database administration`, `Pen-testing (kali stuff)`
 
 
 ## **Big projects:**

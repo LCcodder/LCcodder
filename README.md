@@ -12,7 +12,6 @@
 
 
 ## **So,**
-- Speaking `C1` English
 - `4` years in industry
 - Had experience in `Webdev (2.5 years)`, `Making bots (Discord, Telegram, VK)`, `DevOps and linux adm. (Ubuntu server)`, `Neural networks`, `Low level programming (C++)`, `Embedded eng. (Arduino)`
 - Own a startup: [@LevelUp-software](https://github.com/LevelUp-software)

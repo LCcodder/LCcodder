@@ -18,7 +18,10 @@
 - Own a startup: [@LevelUp-software](https://github.com/LevelUp-software)
 
 
+
+
 ## **Actual skills and tech stack:**
+
 - Main languages: `Typescript`, `Javascript`
 - Main frameworks: `Express`, `Express-handlebars`, `Nest.js`
 - Databases: `Mongodb`, `Redis`, `PostgreSQL`, `Cassandra`

@@ -1,9 +1,14 @@
 ## **Backend `Node.js` developer, DevOps engineer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20visits&color=0e75b6&style=flat" alt="LCcodder" /></p>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/660204904748417036/1211677938093662218/image.png?ex=65ef1204&is=65dc9d04&hm=9d7a87751efc4763e3c88014c85db4f825059a29bd721d85ef0f7534645a212f&=&format=webp&quality=lossless&width=1200&height=408">
+</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20visits&color=0e75b6&style=flat" alt="LCcodder" ></p>
+
+
+
 
 
 ## **So,**
@@ -18,6 +23,8 @@
 - Main frameworks: `Express`, `Express-handlebars`, `Nest.js`
 - Databases: `Mongodb`, `Redis`, `PostgreSQL`, `Cassandra`
 - DevOps skills: `Docker`, `Docker-compose`, `Nginx`, `Linux administration`, `Database administration`, `Pen-testing (kali stuff)`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
 
 
 ## **Big projects:**

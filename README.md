@@ -21,10 +21,11 @@
 
 ## **Actual skills and tech stack:**
 
-- Main languages: `Typescript`, `Javascript`
-- Main frameworks: `Express`, `Express-handlebars`, `Nest.js`
-- Databases: `Mongodb`, `Redis`, `PostgreSQL`, `Cassandra`
+- Main languages: `Typescript`, `Javascript`, `Go (amateur)`
+- Main frameworks: `Express`, `Express-handlebars`
+- Databases: `Mongodb`, `Redis`, `PostgreSQL`
 - DevOps skills: `Docker`, `Docker-compose`, `Nginx`, `Linux administration`, `Database administration`, `Pen-testing (kali stuff)`
+- Hardware enginnering skills: `Custom home clusters build` *and* `Arduino`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
 

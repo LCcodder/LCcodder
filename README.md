@@ -1,4 +1,4 @@
-## **Backend `Node.js` developer, DevOps engineer**
+## **Backend `Node.js` developer, `SRE`**
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/660204904748417036/1211677938093662218/image.png?ex=65ef1204&is=65dc9d04&hm=9d7a87751efc4763e3c88014c85db4f825059a29bd721d85ef0f7534645a212f&=&format=webp&quality=lossless&width=1200&height=408">
@@ -25,7 +25,7 @@
 - Main frameworks: `Express`, `Express-handlebars`
 - Databases: `Mongodb`, `Redis`, `PostgreSQL`
 - DevOps skills: `Docker`, `Docker-compose`, `Nginx`, `Linux administration`, `Database administration`, `Pen-testing (kali stuff)`
-- Hardware enginnering skills: `Custom home clusters build` *and* `Arduino`
+- SR skills: `Port forwarding & network configuration`, `Cluster building`, `Sys-monitoring`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
 

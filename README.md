@@ -23,7 +23,7 @@
 
 - Main languages: `Typescript`, `Javascript`, `Go (amateur)`
 - Main frameworks: `Express`, `Express-handlebars`
-- Databases: `Mongodb`, `Redis`, `PostgreSQL`
+- Databases: `Mongodb`, `Redis`, `PostgreSQL`, `Cassandra`
 - DevOps skills: `Docker`, `Docker-compose`, `Nginx`, `Linux administration`, `Database administration`, `Pen-testing (kali stuff)`
 - SR skills: `Port forwarding & network configuration`, `Cluster building`, `Sys-monitoring`
 

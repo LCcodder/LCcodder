@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20visits&color=0e75b6&style=flat" alt="LCcodder" ></p>
+<img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20visits&color=0e75b6&style=flat" alt="LCcodder" >
 
 
 

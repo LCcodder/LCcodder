@@ -1,8 +1,6 @@
 ## **Backend `Node.js` developer, `SRE`**
 
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/660204904748417036/1211677938093662218/image.png?ex=65ef1204&is=65dc9d04&hm=9d7a87751efc4763e3c88014c85db4f825059a29bd721d85ef0f7534645a212f&=&format=webp&quality=lossless&width=1200&height=408">
-</p>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20visits&color=0e75b6&style=flat" alt="LCcodder" ></p>
@@ -11,7 +9,7 @@
 
 
 
-## **General:**
+
 - `4` years in industry
 - Had experience in `Webdev (2.5 years)`, `Making bots (Discord, Telegram, VK)`, `DevOps and linux adm. (Ubuntu server)`, `Neural networks`, `Low level programming (C++)`, `Embedded eng. (Arduino)`
 - Own a Discord-bot startup: [@LevelUp-software](https://github.com/LevelUp-software)

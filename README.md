@@ -19,7 +19,7 @@
 
 ## **Actual skills and tech stack:**
 
-- Main languages: `Typescript`, `Javascript`, `Go (amateur)`
+- Main languages: `TypeScript`, `JavaScript`
 - Main frameworks: `Express`, `Express-handlebars`, `Fastify`, `Nest.js`
 - Databases: `Mongodb`, `Redis`, `PostgreSQL`, `Cassandra`
 - ORMs: `Mongoose`, `Sequelize`, `Prisma`

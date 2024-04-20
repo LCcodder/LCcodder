@@ -27,7 +27,7 @@
 - DevOps skills: `Docker`, `Docker-compose`, `Nginx`, `Linux administration`, `Database administration`
 - SRE skills: `Port forwarding & network configuration`, `Cluster building`, `Sys-monitoring`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=10)](https://github.com/LCcodder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=20)](https://github.com/LCcodder/github-readme-stats)
 
 
 ## **Big projects:**

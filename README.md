@@ -10,7 +10,7 @@
 
 
 
-- `4` years in industry
+- `5` years in industry
 - Had experience in `Webdev (2.5 years)`, `Making bots (Discord, Telegram, VK)`, `DevOps and linux adm. (Ubuntu server)`, `Neural networks`, `Low level programming (C++)`, `Embedded eng. (Arduino)`
 - Own a Discord-bot startup: [@LevelUp-software](https://github.com/LevelUp-software)
 

@@ -1,4 +1,4 @@
-## **Backend `Node.js` developer, `SRE`**
+## **Backend `Node.js` developer**
 
 
 

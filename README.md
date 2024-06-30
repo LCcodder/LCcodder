@@ -22,7 +22,7 @@
 - Main languages: `TypeScript`, `JavaScript`
 - Main frameworks: `Express`, `Express-handlebars`, `Fastify`, `Nest.js`
 - Databases: `Mongodb`, `Redis`, `PostgreSQL`, `Cassandra`
-- ORMs: `Mongoose`, `Sequelize`, `Prisma`
+- ORMs: `Mongoose`, `Sequelize`, `Prisma`, `TypeORM`
 - Testing: `Postman (manual and automated testing)`, `Jest`
 - DevOps skills: `Docker`, `Docker-compose`, `Nginx`, `GitHub Actions`, `Linux administration`, `Database administration`
 - SRE skills: `Port forwarding & network configuration`, `Cluster building`, `Sys-monitoring`

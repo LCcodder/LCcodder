@@ -10,9 +10,10 @@
 
 
 
-- `5` years in industry
-- Had experience in `Webdev (2.5 years)`, `Making bots (Discord, Telegram, VK)`, `DevOps and linux adm. (Ubuntu server)`, `Neural networks`, `Low level programming (C++)`, `Embedded eng. (Arduino)`
-- Own a Discord-bot startup: [@LevelUp-software](https://github.com/LevelUp-software)
+- `4` years in industry
+- `3` years `JavaScript` experience
+- `2,5` years `Node.js` backend developement
+- Had experience in `Webdev (3 years)`, `Making bots (Discord, Telegram, VK)`, `DevOps and linux adm. (Ubuntu server)`, `Neural networks`, `Low level programming (C++)`, `Embedded eng. (Arduino)`
 
 
 

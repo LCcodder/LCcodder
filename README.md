@@ -1,5 +1,24 @@
 ## **Backend `Node.js` developer**
 
+
+
+
+<img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20visits&color=0e75b6&style=flat" alt="LCcodder" >
+
+
+
+
+- `4` years in industry
+- `3` years `JavaScript` experience
+- `2,5` years `Node.js` backend developement
+
+
+
+
+
+
+## **Tech stack:**
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -21,22 +40,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-
-
-
-
-
-- `4` years in industry
-- `3` years `JavaScript` experience
-- `2,5` years `Node.js` backend developement
-
-<img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20visits&color=0e75b6&style=flat" alt="LCcodder" >
-
-
-
-
-## **Tech stack:**
 
 - Main languages: `TypeScript`, `JavaScript`
 - Main frameworks: `Express`, `Express-handlebars`, `Fastify`, `Nest.js`

@@ -8,6 +8,8 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
@@ -19,7 +21,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20visits&color=0e75b6&style=flat" alt="LCcodder" >
 
 
 
@@ -30,11 +31,12 @@
 - `3` years `JavaScript` experience
 - `2,5` years `Node.js` backend developement
 
+<img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20visits&color=0e75b6&style=flat" alt="LCcodder" >
 
 
 
 
-## **Actual skills and tech stack:**
+## **Tech stack:**
 
 - Main languages: `TypeScript`, `JavaScript`
 - Main frameworks: `Express`, `Express-handlebars`, `Fastify`, `Nest.js`

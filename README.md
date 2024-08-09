@@ -13,7 +13,7 @@
 - `4` years in industry
 - `3` years `JavaScript` experience
 - `2,5` years `Node.js` backend developement
-- Had experience in `Webdev (3 years)`, `Making bots (Discord, Telegram, VK)`, `DevOps and linux adm. (Ubuntu server)`, `Neural networks`, `Low level programming (C++)`, `Embedded eng. (Arduino)`
+
 
 
 
@@ -31,10 +31,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=20)](https://github.com/LCcodder/github-readme-stats)
 
 
-## **Big projects:**
-- 👉 A powerful Discord bot with microservice architecture (backend + sys-architecture) [@LevelUp-software](https://github.com/LevelUp-software)
+## **Projects:**
+- 👉 TypeScript library for additional typing support [TypeScript library](https://github.com/LCcodder/typing-assets)
+- 👉 Notion clone API (TypeScript + Fastify + PostgreSQL + Redis) [notion clone](https://github.com/LCcodder/fastify-typescript-boilerplate)
+- 👉 URL shortener API (TypeScript + Express + Cassandra + Redis) [url shortener](https://github.com/LCcodder/nodejs-hexagonal-architecture-boilerplate)
+- 👉 Places API (TypeScript + Nest.js + Mongodb) [places API](https://github.com/LCcodder/places-api)
+- 👉 RabbitMQ mailing microservice (TypeScript + Nest.js) [RabbitMQ microservice](https://github.com/LCcodder/rabbitmq-mailer)
+- 👉 Telegram bot for server metrics monitoring (Golang) [telegram bot for monitoring](https://github.com/LCcodder/Telemonitor)
 
-<!---
-LCcodder/LCcodder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

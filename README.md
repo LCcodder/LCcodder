@@ -28,15 +28,15 @@
 - DevOps skills: `Docker`, `Docker-compose`, `Nginx`, `GitHub Actions`, `Linux administration`, `Database administration`
 - SRE skills: `Port forwarding & network configuration`, `Cluster building`, `Sys-monitoring`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=20)](https://github.com/LCcodder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=5)](https://github.com/LCcodder/github-readme-stats)
 
 
 ## **Projects:**
-- 👉 TypeScript library for additional typing support [TypeScript library](https://github.com/LCcodder/typing-assets)
-- 👉 Notion clone API (TypeScript + Fastify + PostgreSQL + Redis) [notion clone](https://github.com/LCcodder/fastify-typescript-boilerplate)
-- 👉 URL shortener API (TypeScript + Express + Cassandra + Redis) [url shortener](https://github.com/LCcodder/nodejs-hexagonal-architecture-boilerplate)
-- 👉 Places API (TypeScript + Nest.js + Mongodb) [places API](https://github.com/LCcodder/places-api)
-- 👉 RabbitMQ mailing microservice (TypeScript + Nest.js) [RabbitMQ microservice](https://github.com/LCcodder/rabbitmq-mailer)
-- 👉 Telegram bot for server metrics monitoring (Golang) [telegram bot for monitoring](https://github.com/LCcodder/Telemonitor)
+- 👉 **TypeScript library** for additional typing support [TypeScript library](https://github.com/LCcodder/typing-assets)
+- 👉 Notion clone API **(TypeScript + Fastify + PostgreSQL + Redis)** [Notion clone](https://github.com/LCcodder/fastify-typescript-boilerplate)
+- 👉 URL shortener API **(TypeScript + Express + Cassandra + Redis)** [URL shortener](https://github.com/LCcodder/nodejs-hexagonal-architecture-boilerplate)
+- 👉 Places API **(TypeScript + Nest.js + Mongodb)** [Places API](https://github.com/LCcodder/places-api)
+- 👉 RabbitMQ mailing microservice **(TypeScript + Nest.js)** [RabbitMQ microservice](https://github.com/LCcodder/rabbitmq-mailer)
+- 👉 Telegram bot for server metrics monitoring **(Golang)** [Telegram bot for monitoring](https://github.com/LCcodder/Telemonitor)
 
 

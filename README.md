@@ -41,13 +41,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-- Main languages: `TypeScript`, `JavaScript`
-- Main frameworks: `Express`, `Express-handlebars`, `Fastify`, `Nest.js`
-- Databases: `Mongodb`, `Redis`, `PostgreSQL`, `Cassandra`
-- ORMs: `Mongoose`, `Sequelize`, `Prisma`, `TypeORM`
-- Testing: `Postman (manual and automated testing)`, `Jest`
-- DevOps skills: `Docker`, `Docker-compose`, `Nginx`, `GitHub Actions`, `Linux administration`, `Database administration`
-- SRE skills: `Port forwarding & network configuration`, `Cluster building`, `Sys-monitoring`
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=5)](https://github.com/LCcodder/github-readme-stats)
 

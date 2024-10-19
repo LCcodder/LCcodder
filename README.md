@@ -9,8 +9,8 @@
 
 
 - `4` years in industry
-- `3` years `JavaScript` experience
-- `2,5` years `Node.js` backend developement
+- `3` years of `JavaScript` experience
+- `2,5` years of `Node.js` backend developement
 
 
 

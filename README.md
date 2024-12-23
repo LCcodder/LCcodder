@@ -52,8 +52,8 @@
 - 👉 **TypeScript library** for additional typing support [TypeScript library](https://github.com/LCcodder/typing-assets)
 - 👉 Notion clone API **(TypeScript + Fastify + PostgreSQL + Redis)** [Notion clone](https://github.com/LCcodder/fastify-typescript-boilerplate)
 - 👉 URL shortener API **(TypeScript + Express + Cassandra + Redis)** [URL shortener](https://github.com/LCcodder/nodejs-hexagonal-architecture-boilerplate)
-- 👉 Places API **(TypeScript + Nest.js + Mongodb)** [Places API](https://github.com/LCcodder/places-api)
-- 👉 RabbitMQ mailing microservice **(TypeScript + Nest.js)** [RabbitMQ microservice](https://github.com/LCcodder/rabbitmq-mailer)
+- 👉 Places API **(TypeScript + Nest.js + Mongodb + GraphQL)** [Places API](https://github.com/LCcodder/places-api)
+- 👉 RabbitMQ mailing microservice **(TypeScript + Nest.js + RabbitMQ)** [RabbitMQ microservice](https://github.com/LCcodder/rabbitmq-mailer)
 - 👉 Telegram bot for server metrics monitoring **(Golang)** [Telegram bot for monitoring](https://github.com/LCcodder/Telemonitor)
 
 

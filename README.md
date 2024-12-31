@@ -8,7 +8,7 @@
 
 
 
-- `4` years in industry
+- `4,5` years in IT
 - `3` years of `JavaScript` developement experience
 - `2,5` years of backend developement
 - `2` years of `TypeScript` backend developement experience

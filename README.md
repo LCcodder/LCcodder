@@ -1,4 +1,4 @@
-## **Backend `Node.js` developer**
+## **Backend `Node.js`/`Golang` developer**
 
 
 
@@ -44,20 +44,22 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCcodder&langs_count=5)](https://github.com/LCcodder/github-readme-stats)
 
 
 ## **Projects:**
-- 👉 **TypeScript library** for additional typing support [TypeScript library](https://github.com/LCcodder/typing-assets)
+- 👉 TypeScript library for additional typing support [TypeScript library](https://github.com/LCcodder/typing-assets)
+- 👉 Apache Kafka sports game aggregator (consumer + producer, over 3000 code lines) [Kafka project](https://github.com/LCcodder/kafka-template)
 - 👉 Notion clone API **(TypeScript + Fastify + PostgreSQL + Redis)** [Notion clone](https://github.com/LCcodder/fastify-typescript-boilerplate)
 - 👉 URL shortener API **(TypeScript + Express + Cassandra + Redis)** [URL shortener](https://github.com/LCcodder/nodejs-hexagonal-architecture-boilerplate)
 - 👉 Places API **(TypeScript + Nest.js + Mongodb + GraphQL)** [Places API](https://github.com/LCcodder/places-api)

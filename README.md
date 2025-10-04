@@ -59,7 +59,7 @@
 
 ## **Projects:**
 - 👉 TypeScript library for additional typing support [TypeScript library](https://github.com/LCcodder/typing-assets)
-- 👉 Apache Kafka sports game aggregator (consumer + producer, over 3000 code lines) [Kafka project](https://github.com/LCcodder/kafka-template)
+- 👉 Apache Kafka sports game aggregator (consumer + producer) [Kafka project](https://github.com/LCcodder/kafka-template)
 - 👉 Notion clone API **(TypeScript + Fastify + PostgreSQL + Redis)** [Notion clone](https://github.com/LCcodder/fastify-typescript-boilerplate)
 - 👉 URL shortener API **(TypeScript + Express + Cassandra + Redis)** [URL shortener](https://github.com/LCcodder/nodejs-hexagonal-architecture-boilerplate)
 - 👉 Places API **(TypeScript + Nest.js + Mongodb + GraphQL)** [Places API](https://github.com/LCcodder/places-api)

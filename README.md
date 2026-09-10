@@ -60,8 +60,6 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 
----
-
 
 ## **Projects:**
 - 👉 TypeScript library for additional typing support [TypeScript library](https://github.com/LCcodder/typing-assets)

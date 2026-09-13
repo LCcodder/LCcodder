@@ -1,4 +1,4 @@
-## **Backend `Golang` (ex. `Node.js`) developer and SRE**
+## **Backend `Golang` (ex. `Node.js`) developer**
 
 
 

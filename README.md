@@ -1,20 +1,10 @@
 ## **DevOps/SRE engineer, ex. backend `Golang`developer**
 
 
-
-
-<img src="https://komarev.com/ghpvc/?username=LCcodder&label=Profile%20visits&color=0e75b6&style=flat" alt="LCcodder" >
-
-
-
-
-- `4,5` years in IT
-- `2,5` years of backend developement
-- `3` years of `Golang` backend development
-- `2` years of `TypeScript` backend developement experience
-
-
-
+- `5` years in IT
+- `1.5` years of DevOps/SRE
+- `2` years of `Golang` backend development
+- `1` year of `TypeScript` backend developement experience
 
 
 

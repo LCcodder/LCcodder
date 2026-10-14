@@ -37,16 +37,16 @@
 
 ## **Projects:**
 
-## **DevOps**
+### **DevOps**
 - 👉 Complete production ready k8s lab (2 deployments, helm charts, 2 statefulsets with kafka) with IaS and automation (Ansible) [K8s and Ansible lab](https://github.com/LCcodder/k8s-lab)
 - 👉 Simple k8s template for minikube (1 deployment, 2 statefulsets) [K8s template](https://github.com/LCcodder/k8s-template)
 
   
-## **Golang**
+### **Golang**
 - 👉 Apache Kafka sports game aggregator (consumer + producer) [Kafka project](https://github.com/LCcodder/kafka-template)
 - 👉 Telegram bot for server metrics monitoring **(Golang)** [Telegram bot for monitoring](https://github.com/LCcodder/Telemonitor)
 
-## **TypeScript**
+### **TypeScript**
 - 👉 TypeScript library for additional typing support [TypeScript library](https://github.com/LCcodder/typing-assets)
 - 👉 Notion clone API **(TypeScript + Fastify + PostgreSQL + Redis)** [Notion clone](https://github.com/LCcodder/fastify-typescript-boilerplate)
 - 👉 URL shortener API **(TypeScript + Express + Cassandra + Redis)** [URL shortener](https://github.com/LCcodder/nodejs-hexagonal-architecture-boilerplate)

@@ -4,7 +4,7 @@
 - `5` years in IT
 - `1.5` years of DevOps/SRE
 - `2` years of `Golang` backend development
-- `1` year of `TypeScript` backend developement experience
+- `1` year of `TypeScript` backend development
 
 
 
